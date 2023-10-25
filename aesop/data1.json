@@ -1,0 +1,29 @@
+[
+   {
+      "id": 0,
+      "title": "Elemental Facial Barrier Cream",
+      "content": "Skin Hydrator",
+      "price": 52.35
+      },
+
+      {
+      "id": 1,
+      "title": "Parsley Seed Cleansing Mask",
+      "content": "Skin treatment and mask",
+      "price": 42.03
+      },
+
+      {
+      "id": 2,
+      "title": "Parsley Seed Anti-Oxident FacialTreatment",
+      "content": "Skin treatment and mask",
+      "price": 51.62
+      },
+
+      {
+      "id": 3,
+      "title": "Purifying Facial Xpollient Paste",
+      "content": "Skin treatment and mask",
+      "price": 31.65
+      }
+]
