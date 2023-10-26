@@ -1,0 +1,29 @@
+[
+   {
+      "id": 0,
+      "title": "Resurrection Aromatique Hand Wash",
+      "content": "Body and hand",
+      "price": 36.09
+      },
+
+      {
+      "id": 1,
+      "title": "Recreation Aromatic Hand Balm",
+      "content": "Body and hand",
+      "price": 25.78
+      },
+
+      {
+      "id": 2,
+      "title": "Nurture Bar Soap",
+      "content": "Body and hand",
+      "price": 16.94
+      },
+
+      {
+      "id": 3,
+      "title": "Violet Leaf Hair Balm",
+      "content": "Hair grooming",
+      "price": 29.46
+      }
+]
