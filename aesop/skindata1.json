@@ -1,29 +1,57 @@
 [
    {
       "id": 0,
-      "title": "Resurrection Aromatique Hand Wash",
-      "content": "Body and hand",
-      "price": 36.09
+      "title": "Gentle Facial Cleansing Milk",
+      "content": "Face and Cleanser",
+      "price": 30.78
       },
 
       {
       "id": 1,
-      "title": "Recreation Aromatic Hand Balm",
-      "content": "Body and hand",
+      "title": "Fabulous Face Cleanser",
+      "content": "Face and Cleanser",
       "price": 25.78
       },
 
       {
       "id": 2,
-      "title": "Nurture Bar Soap",
-      "content": "Body and hand",
+      "title": "Parsley Seed Antioxdant Intense Serum",
+      "content": "Treatment and Mask",
       "price": 16.94
       },
 
       {
       "id": 3,
-      "title": "Violet Leaf Hair Balm",
-      "content": "Hair grooming",
-      "price": 29.46
+      "title": "Damascan Rose Facial Treatment",
+      "content": "Treatment and Mask",
+      "price": 73.10
+      },
+
+      {
+      "id": 4,
+      "title": "Elemental Facial Barrier Cream",
+      "content": "skn and Hydrator",
+      "price": 54.63
+      },
+   
+      {
+      "id": 5,
+      "title": "Parsley Seed Antioxdant Hydrator",
+      "content": "skn and Hydrator",
+      "price": 61.56
+      },
+
+      {
+      "id": 6,
+      "title": "Purifying Facial Expoliant Paste",
+      "content": "Treatment and Mask",
+      "price": 51.55
+      },
+
+      {
+      "id": 7,
+      "title": "Sage & Zinc Facial Hydrating Lotion SPF15",
+      "content": "skn and Hydrator",
+      "price": 46.17
       }
 ]
