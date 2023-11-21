@@ -4,7 +4,7 @@
       "images": "images/skinpage/skin9.png",
       "title": "Parsley Seed Anti Oxldant Eye Cream",
       "content": "skin and Eye",
-      "price": 30.78
+      "price": 75.01
       },
 
       {
@@ -12,7 +12,7 @@
       "images": "images/skinpage/skin10.png",
       "title": "B Triple C Facial Balancing Gel",
       "content": "skin and Hydrator",
-      "price": 25.78
+      "price": 113.67
       },
 
       {
@@ -20,7 +20,7 @@
       "images": "images/skinpage/skin11.png",
       "title": "In to Mines Facial Toner",
       "content": "skin and Toner",
-      "price": 16.94
+      "price": 30.16
       },
 
       {
@@ -28,7 +28,7 @@
       "images": "images/skinpage/skin12.png",
       "title": "Tea Tree Leaf Facial Expoliant",
       "content": "Treatment and Mask",
-      "price": 73.10
+      "price": 36.34
       },
 
       {
@@ -36,7 +36,7 @@
       "images": "images/skinpage/skin13.png",
       "title": "Blue Chamomile Facial Hydrating Mask",
       "content": "Treatment and Mask",
-      "price": 54.63
+      "price": 51.81
       },
    
       {
@@ -44,15 +44,15 @@
       "images": "images/skinpage/skin14.png",
       "title": "control",
       "content": "Treatment and Mask",
-      "price": 61.56
+      "price": 22.42
       },
 
       {
       "id": 6,
       "images": "images/skinpage/skin15.png",
       "title": "Purifying Facial Cream Cleanser",
-      "content": "Treatment and Mask",
-      "price": 51.55
+      "content": "Face and Cleanser",
+      "price": 30.93
       },
 
       {
@@ -60,6 +60,6 @@
       "images": "images/skinpage/skin16.png",
       "title": "Protective Body Lotion SPF 50",
       "content": "skin and Hydrator",
-      "price": 46.17
+      "price": 38.66
       }
 ]
