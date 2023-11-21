@@ -1,7 +1,7 @@
 [
    {
       "id": 0,
-      "images": "images/skinpage/skin1.png",
+      "images": "https://github.com/JiyunNam0/frontend/blob/main/skin1.png",
       "title": "Gentle Facial Cleansing Milk",
       "content": "Face and Cleanser",
       "price": 30.78
