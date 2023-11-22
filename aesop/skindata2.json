@@ -1,7 +1,7 @@
 [
    {
       "id": 0,
-      "images": "images/skinpage/skin9.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin9.png",
       "title": "Parsley Seed Anti Oxldant Eye Cream",
       "content": "skin and Eye",
       "price": 75.01
@@ -9,7 +9,7 @@
 
       {
       "id": 1,
-      "images": "images/skinpage/skin10.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin10.png",
       "title": "B Triple C Facial Balancing Gel",
       "content": "skin and Hydrator",
       "price": 113.67
@@ -17,7 +17,7 @@
 
       {
       "id": 2,
-      "images": "images/skinpage/skin11.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin11.png",
       "title": "In to Mines Facial Toner",
       "content": "skin and Toner",
       "price": 30.16
@@ -25,7 +25,7 @@
 
       {
       "id": 3,
-      "images": "images/skinpage/skin12.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin12.png",
       "title": "Tea Tree Leaf Facial Expoliant",
       "content": "Treatment and Mask",
       "price": 36.34
@@ -33,7 +33,7 @@
 
       {
       "id": 4,
-      "images": "images/skinpage/skin13.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin13.png",
       "title": "Blue Chamomile Facial Hydrating Mask",
       "content": "Treatment and Mask",
       "price": 51.81
@@ -41,7 +41,7 @@
    
       {
       "id": 5,
-      "images": "images/skinpage/skin14.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin14.png",
       "title": "control",
       "content": "Treatment and Mask",
       "price": 22.42
@@ -49,7 +49,7 @@
 
       {
       "id": 6,
-      "images": "images/skinpage/skin15.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin15.png",
       "title": "Purifying Facial Cream Cleanser",
       "content": "Face and Cleanser",
       "price": 30.93
@@ -57,7 +57,7 @@
 
       {
       "id": 7,
-      "images": "images/skinpage/skin16.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin16.png",
       "title": "Protective Body Lotion SPF 50",
       "content": "skin and Hydrator",
       "price": 38.66
