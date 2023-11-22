@@ -9,7 +9,7 @@
 
       {
       "id": 1,
-      "images": "images/skinpage/skin2.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin2.png",
       "title": "Fabulous Face Cleanser",
       "content": "Face and Cleanser",
       "price": 25.78
@@ -17,7 +17,7 @@
 
       {
       "id": 2,
-      "images": "images/skinpage/skin3.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin3.png",
       "title": "Parsley Seed Antioxdant Intense Serum",
       "content": "Treatment and Mask",
       "price": 16.94
@@ -25,7 +25,7 @@
 
       {
       "id": 3,
-      "images": "images/skinpage/skin4.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin4.png",
       "title": "Damascan Rose Facial Treatment",
       "content": "Treatment and Mask",
       "price": 73.10
@@ -33,7 +33,7 @@
 
       {
       "id": 4,
-      "images": "images/skinpage/skin5.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin5.png",
       "title": "Elemental Facial Barrier Cream",
       "content": "skin and Hydrator",
       "price": 54.63
@@ -41,7 +41,7 @@
    
       {
       "id": 5,
-      "images": "images/skinpage/skin6.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin6.png",
       "title": "Parsley Seed Antioxdant Hydrator",
       "content": "skin and Hydrator",
       "price": 61.56
@@ -49,7 +49,7 @@
 
       {
       "id": 6,
-      "images": "images/skinpage/skin7.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin7.png",
       "title": "Purifying Facial Expoliant Paste",
       "content": "Treatment and Mask",
       "price": 51.55
@@ -57,7 +57,7 @@
 
       {
       "id": 7,
-      "images": "images/skinpage/skin8.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin8.png",
       "title": "Sage & Zinc Facial Hydrating Lotion SPF15",
       "content": "skin and Hydrator",
       "price": 46.17
