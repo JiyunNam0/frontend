@@ -1,29 +1,29 @@
 [
    {
       "id": 0,
-      "title": "Resurrection Aromatique Hand Wash",
-      "content": "Body and hand",
-      "price": 36.09
+      "title": "레저렉션 아로마틱 핸드 워시",
+      "content": "열심히 일한 손을 위한 부드러운 클렌징",
+      "price": "47,000"
       },
 
       {
       "id": 1,
-      "title": "Recreation Aromatic Hand Balm",
-      "content": "Body and hand",
-      "price": 25.78
+      "title": "레저렉션 아로마틱 핸드 밤",
+      "content": "시트러스, 우디, 허브향",
+      "price": "35,000"
       },
 
       {
       "id": 2,
-      "title": "Nurture Bar Soap",
-      "content": "Body and hand",
-      "price": 16.94
+      "title": "너처 바 솝",
+      "content": "대부분의 피부 타입",
+      "price": "23,000"
       },
 
       {
       "id": 3,
-      "title": "Violet Leaf Hair Balm",
-      "content": "Hair grooming",
-      "price": 29.46
+      "title": "바이올렛 리프 헤어 밤",
+      "content": "스타일링을 도와주는 크리미한 컨디셔닝 밤",
+      "price": "40,000"
       }
 ]
