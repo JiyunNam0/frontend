@@ -1,29 +1,29 @@
 [
    {
       "id": 0,
-      "title": "Elemental Facial Barrier Cream",
-      "content": "Skin Hydrator",
-      "price": 52.35
+      "title": "엘레멘탈 페이셜 배리어 크림",
+      "content": "춥고 혹독한 환경에 노출된 피부",
+      "price": 71,000
       },
 
       {
       "id": 1,
-      "title": "Parsley Seed Cleansing Mask",
-      "content": "Skin treatment and mask",
-      "price": 42.03
+      "title": "파슬리 씨드 클렌징 마스크",
+      "content": "불순물을 부드럽게 제거해 피부를 상쾌하게 가꿔줍니다",
+      "price": 57,000
       },
 
       {
       "id": 2,
-      "title": "Parsley Seed Anti-Oxident FacialTreatment",
-      "content": "Skin treatment and mask",
-      "price": 51.62
+      "title": "파슬리 씨드 안티 옥시던트 페이셜 트리트먼트",
+      "content": "영양을 공급해 피부를 탄탄하게 강화시킵니다",
+      "price": 70,000
       },
 
       {
       "id": 3,
-      "title": "Purifying Facial Xpollient Paste",
-      "content": "Skin treatment and mask",
-      "price": 31.65
+      "title": "퓨리파잉 페이셜 엑스폴리언트 페이스트",
+      "content": "각질을 제거해 피부에 수분공급을 해줍니다",
+      "price": 67,000
       }
 ]
