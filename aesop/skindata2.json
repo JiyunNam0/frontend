@@ -2,6 +2,7 @@
    {
       "id": 0,
       "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin9.png",
+      "sub": "Lip & Eye",
       "title": "파슬리 씨드 안티 옥시던트 아이 크림",
       "content": "비타민 C 유도체와 E를 풍부하게 함유한 효과적인 항산화* 블렌드로 눈가의 섬세한 피부에 영양을 공급하고 탄탄하게 지탱해 주는 아이 크림",
       "type": "모든 피부, 건성 피부",
@@ -13,6 +14,7 @@
       {
       "id": 1,
       "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin10.png",
+      "sub": "Hydrator",
       "title": "비 트리플 씨 페이셜 밸런싱 젤",
       "content": "효과적인 함량의 프로비타민 B5와 비타민 C 유도체를 포함하여 피부 균형을 잡아주는 가벼운 하이드레이터로, 피부에 수분과 영양을 채워 부드럽게 가꿔주며 피부를 고르게 표현합니다.",
       "type": "중성, 복합성, 지성 피부, 덥고 습한 날씨의 피부",
@@ -24,6 +26,7 @@
       {
       "id": 2,
       "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin11.png",
+      "sub": "Toner",
       "title": "인 투 마인즈 페이셜 토너",
       "content": "클렌징 단계를 마무리하는 동시에 피부를 진정시키고 균형을 잡아주는 부드러운 수렴 효과의 토너",
       "type": "복합성 피부",
@@ -35,6 +38,7 @@
       {
       "id": 3,
       "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin12.png",
+      "sub": "exfoliation",
       "title": "티 트리 리프 페이셜 엑스폴리언트",
       "content": "티 트리 리프, 너트 쉘, 클레이를 함유한 파우더 타입의 각질 관리제",
       "type": "중성, 복합성, 지성 피부",
@@ -46,6 +50,7 @@
       {
       "id": 4,
       "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin13.png",
+      "sub": "Treatment & Mask",
       "title": "블루 카모마일 페이셜 하이드레이팅 마스크",
       "content": "피부의 밸런스를 유지하면서도 집중적으로 수분을 공급하는 가벼운 수분 마스크",
       "type": "중성 피부, 건성 피부, 탈수 피부, 여행을 자주 하는 분",
@@ -57,6 +62,7 @@
       {
       "id": 5,
       "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin14.png",
+      "sub": "Treatment & Mask",
       "title": "컨트롤",
       "content": "문제성 피부를 효과적으로 진정시켜주는 순한 스팟 트리트먼트",
       "type": "문제성 피부",
@@ -68,6 +74,7 @@
       {
       "id": 6,
       "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin15.png",
+      "sub": "Cleanser",
       "title": "퓨리파잉 페이셜 크림 클렌저",
       "content": "가벼운 메이크업을 지워주고, 피부에 남은 잔여물을 말끔하게 씻어내어 피부를 부드럽고 촉촉하게 가꿔 주는 크림 클렌저",
       "type": "중성, 건성 피부",
@@ -78,7 +85,8 @@
 
       {
       "id": 7,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin16.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/skin16.png",
+      "sub": "Hydrator",
       "title": "이미디에이트 모이스처 페이셜 하이드로졸",
       "content": "어디서든 피부와 오감에 생기를 불어넣어 주는 상쾌한 미스트",
       "type": "모든 피부 타입, 잦은 여행자, 직장인",
