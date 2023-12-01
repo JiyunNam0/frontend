@@ -1,7 +1,7 @@
 [
    {
       "id": 0,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin17.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body1.png",
       "sub": "Body & hand",
       "title": "레버런스 아로마틱 핸드 워시",
       "content": "고운 퓨마이스가 함유되어 손의 각질을 깨끗이 씻어주고 보태니컬 추출물 블렌드로 상쾌함을 주는 핸드 워시",
@@ -14,7 +14,7 @@
 
       {
       "id": 1,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin18.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body2.png",
       "sub": "Body & hand",
       "title": "레저렉션 아로마틱 핸드 워시",
       "content": "오렌지, 로즈마리, 라벤더 오일을 함유한 부드러운 핸드 워시",
@@ -27,7 +27,7 @@
 
       {
       "id": 2,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin19.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body3.png",
       "sub": "Body & hand",
       "title": "레저렉션 아로마틱 핸드 밤",
       "content": "지친 손과 큐티클에 풍부한 수분을 공급해주는 향긋한 보태니컬 핸드 밤",
@@ -40,7 +40,7 @@
 
       {
       "id": 3,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin20.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body4.png",
       "sub": "Body & hand",
       "title": "너처 바 솝",
       "content": "시어 버터를 함유해 클렌징 과정에서 수분 손실을 막아주며 자극이 적어 건성 피부를 비롯해 대부분의 피부 타입에 적합한, 목욕할 때나 세면대에서 사용하는 비누",
@@ -53,7 +53,7 @@
 
       {
       "id": 4,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin21.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body5.png",
       "sub": "Body & hand",
       "title": "레저렉션 아로마틱 핸드 밤",
       "content": "포타슘 락테이트를 포함한 에몰리언트 성분이 피부의 부드러움과 촉촉함을 유지시켜 주는 핸드 밤",
@@ -66,7 +66,7 @@
    
       {
       "id": 5,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin22.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body6.png",
       "sub": "Body & hand",
       "title": "폴리시 바 솝",
       "content": "퓨마이스와 그레이프 씨드를 함유해 각질 관리와 클렌징 효과가 뛰어나고 건조한 각질 피부를 비롯해 대부분의 피부 타입에 적합한, 목욕할 때나 세면대에서 사용하는 비누",
@@ -79,7 +79,7 @@
 
       {
       "id": 6,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin23.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body7.png",
       "sub": "Body & hand",
       "title": "리프레시 바 솝",
       "content": "피부 정화 작용이 뛰어난 식물성 오일을 함유하고 대부분의 피부 타입에 적합한, 목욕할 때나 세면대에서 사용하는 부드러운 비누",
@@ -92,7 +92,7 @@
 
       {
       "id": 7,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin24.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body8.png",
       "sub": "Body & hand",
       "title": "에이 로즈 바이 애니 아더 네임 바디 클렌저",
       "content": "우수한 품질의 다마스크장미꽃오일과 피부를 부드럽게 가꿔주는 식물성 추출물을 함유해 부드러우면서 꼼꼼한 세정을 전하는 향기로운 클렌징 젤",
