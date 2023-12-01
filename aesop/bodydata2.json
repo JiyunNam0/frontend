@@ -1,7 +1,7 @@
 [
    {
       "id": 0,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin17.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body9.png",
       "sub": "Body & hand",
       "title": "브레스리스",
       "content": "부드러움과 영양을 공급하는 넛트 오일 추출물과 풍부한 비타민 E성분을 함유한 바디 오일",
@@ -14,7 +14,7 @@
 
       {
       "id": 1,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin18.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body10.png",
       "sub": "Body & hand",
       "title": "코리안더 씨드 바디 클렌저",
       "content": "피부 세정과 독특하고 따뜻한 풍성한 아로마로 기분을 북돋아주는 거품이 적은 클렌징 젤",
@@ -27,7 +27,7 @@
 
       {
       "id": 2,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin19.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body11.png",
       "sub": "Body & hand",
       "title": "제라늄 리프 바디 밤",
       "content": "영양이 풍부한 넛트 오일, 피부를 부드럽게 해주는 센티드제라늄추출물, 향기로운 시트러스 추출물을 함유한 바디 밤",
@@ -40,7 +40,7 @@
 
       {
       "id": 3,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin20.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body12.png",
       "sub": "Body & hand",
       "title": "라인드 컨센트레이트 바디 밤",
       "content": "기분을 북돋우는 시트러스 아로마와 영양이 풍부한 너트 오일 추출물을 함유해 피부를 부드럽고 매끄럽게 가꾸는 바디 모이스처라이저",
@@ -53,7 +53,7 @@
 
       {
       "id": 4,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin21.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body13.png",
       "sub": "Body & hand",
       "title": "제라늄 리프 바디 클렌저",
       "content": "기존 비누에 대한 좋은 대안으로, 부드럽게 잔여물을 제거하고 생기를 북돋아 주는 클렌징 젤",
@@ -66,7 +66,7 @@
    
       {
       "id": 5,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin22.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body14.png",
       "sub": "Body & hand",
       "title": "제라늄 리프 하이드레이팅 바디 트리트먼트",
       "content": "비타민 E, 스위트 아몬드 오일, 마카다미아 너트 오일을 함유하여 피부를 부드럽게 해주는 보습 바디 오일",
@@ -79,7 +79,7 @@
 
       {
       "id": 6,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin23.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body15.png",
       "sub": "Body & hand",
       "title": "레쥬비네이트 인텐시브 바디 밤",
       "content": "마카다미아씨오일과 산달우드목부오일을 함유하여 피부를 촉촉하게 가꿔주며 건성 피부에 적합한 바디 밤",
@@ -92,7 +92,7 @@
 
       {
       "id": 7,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin24.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body16.png",
       "sub": "Body & hand",
       "title": "레졸루트 하이드레이팅 바디 밤",
       "content": "시어버터, 밀배아 오일, 스위트 아몬드 오일 성분이 함유되어 피부에 수분과 영양을 공급해주고 독특한 스파이시 향의 에몰리언트 바디 밤",
