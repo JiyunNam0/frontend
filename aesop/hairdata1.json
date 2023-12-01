@@ -1,7 +1,7 @@
 [
    {
       "id": 0,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body1.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/hairimg/hair1.png",
       "sub": "Hair & Treatment",
       "title": "샴푸",
       "content": "프랑킨센스, 판테놀 등 뛰어난 성분을 함유하여 모발과 두피를 깨끗하게 세정하며 부드럽고 윤기나는 머릿결과 향기로운 모발을 선사하는 샴푸",
@@ -14,7 +14,7 @@
 
       {
       "id": 1,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/body2.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/hairimg/hair2.png",
       "sub": "Hair & Treatment",
       "title": "컨디셔너",
       "content": "아미노산을 풍부하게 함유하여 연약하고 가는 모발과 염색 모발을 포함한 대부분의 모발 타입을 부드럽고 촉촉하게 가꿔주며 머릿결을 향기롭고 상쾌하게 가꿔주는 영양이 풍부한 컨디셔너",
@@ -27,7 +27,7 @@
 
       {
       "id": 2,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body3.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/hairimg/hair3.png",
       "sub": "Hair & Treatment",
       "title": "이퀄라이징 샴푸",
       "content": "보태니컬 추출물이 두피를 자극하지 않고 유분을 제거해주며 효과적인 수렴 효과로 두피의 밸런스를 도와주는 샴푸",
@@ -40,7 +40,7 @@
 
       {
       "id": 3,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body4.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/hairimg/hair4.png",
       "sub": "Hair & Treatment",
       "title": "로즈 헤어 앤 스칼프 모이스처라이징 마스크",
       "content": "헤어에 윤기와 생기를 주고, 건조함으로 인해 발생한 각질을 진정시켜주는 집중 컨디셔닝 트리트먼트",
@@ -53,7 +53,7 @@
 
       {
       "id": 4,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body5.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/hairimg/hair5.png",
       "sub": "Hair & Treatment",
       "title": "볼류마이징 샴푸",
       "content": "폴리쿼터늄-67이 모근 사이의 모발을 분리해 모발이 힘있고 풍성해지도록 도와주는 볼륨 샴푸",
@@ -66,7 +66,7 @@
    
       {
       "id": 5,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body6.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/hairimg/hair6.png",
       "sub": "Hair & Treatment",
       "title": "테임 헤어 세럼",
       "content": "모발을 부드럽게 정돈하고 매끄럽게 가꿔주는 가벼운 제품으로 끈적임이나 장기적인 빌드업 현상 없이 흩날리는 부시시한 모발을 차분하게 관리합니다.",
@@ -79,7 +79,7 @@
 
       {
       "id": 6,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body7.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/hairimg/hair7.png",
       "sub": "Hair & Treatment",
       "title": "바이올렛 리프 헤어 밤",
       "content": "영양이 풍부한 하이드레이팅 너트 오일 추출물이 모발에 영양을 주는 동시에 다루기 힘든 모발의 스타일링 도와주는 밤",
@@ -92,7 +92,7 @@
 
       {
       "id": 7,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body8.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/hairimg/hair8.png",
       "sub": "Hair & Treatment",
       "title": "샤인 헤어 앤 비어드 오일",
       "content": "잔여물이나 유분기를 남기지 않고 부드러운 광택을 주는 하이드레이팅 오일",
