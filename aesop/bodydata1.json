@@ -1,0 +1,105 @@
+[
+   {
+      "id": 0,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin17.png",
+      "sub": "Body & hand",
+      "title": "레버런스 아로마틱 핸드 워시",
+      "content": "고운 퓨마이스가 함유되어 손의 각질을 깨끗이 씻어주고 보태니컬 추출물 블렌드로 상쾌함을 주는 핸드 워시",
+      "type": "깔끔한, 매끄러운, 부드러운",
+      "feeling": "우드, 흙내음, 스모키",
+      "ingredient": "베티버뿌리오일, 비터오렌지잎/잔가지오일, 베르가모트오일",
+      "count": 1,
+      "price": 49000
+      },
+
+      {
+      "id": 1,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin18.png",
+      "sub": "Body & hand",
+      "title": "레저렉션 아로마틱 핸드 워시",
+      "content": "오렌지, 로즈마리, 라벤더 오일을 함유한 부드러운 핸드 워시",
+      "type": "깔끔한, 상쾌한",
+      "feeling": "시트러스, 우드, 허브",
+      "ingredient": "만다린, 로즈마리 리프, 시더우드 아틀라스",
+      "count": 1,
+      "price": 49000
+      },
+
+      {
+      "id": 2,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin19.png",
+      "sub": "Body & hand",
+      "title": "어메이징 페이스 클렌저",
+      "content": "부드러운 거품이 피부를 효과적으로 세정하고 피부의 균형을 잡아주는 데일리 클렌저",
+      "type": "지성, 복합성 피부, 덥고 습한 날씨의 피부",
+      "feeling": "산뜻한, 매끄러운",
+      "ingredient": "만다린, 일랑일랑, 라벤더",
+      "count": 1,
+      "price": 37000
+      },
+
+      {
+      "id": 3,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin20.png",
+      "sub": "Body & hand",
+      "title": "서블라임 리플레니싱 나이트 마스크",
+      "content": "비타민 B3, B5, C 유도체, E, F로 강화된 오버나이트 충전 마스크. 빠르고 지속적인 수분 공급으로 피부 밸런싱을 맞춰주며 피부를 고르게 가꿔줍니다.",
+      "type": "중성 피부, 건성 피부, 수분 부족 피부, 칙칙하거나 메마른 피부, 여행을 자주 하는 피부",
+      "feeling": "촉촉한, 부드러운, 유연한",
+      "ingredient": "소듐 아스코빌 포스페이트(비타민 C), 유향나무오일, 사카라이드 아이소머레이트",
+      "count": 1,
+      "price": 153000
+      },
+
+      {
+      "id": 4,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin21.png",
+      "sub": "Body & hand",
+      "title": "비터 오렌지 아스트린젠트 토너",
+      "content": "우수한 세정력을 지닌 시트러스 기반의 토너",
+      "type": "대부분의 피부 타입, 지성, 문제성 피부",
+      "feeling": "시원한, 깨끗한, 매트한 마무리",
+      "ingredient": "비터 오렌지, 위치 헤이즐, 로즈마리 리프",
+      "count": 1,
+      "price": 39000
+      },
+   
+      {
+      "id": 5,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin22.png",
+      "sub": "Body & hand",
+      "title": "모로칸 네롤리 포스트 쉐이브 로션",
+      "content": "가볍게 수분을 공급하고 피부의 밸런스를 유지하는 동시에 쉐이빙 후 자극받은 피부를 진정시켜주는 보태니컬 오일이 함유된 남녀 공용 하이드레이터",
+      "type": "중성, 복합성, 민감성 피부",
+      "feeling": "진정, 수딩, 가벼운 마무리",
+      "ingredient": "샌들우드, 네롤리 블라썸, 판테놀(비타민 B₅)",
+      "count": 1,
+      "price": 65000
+      },
+
+      {
+      "id": 6,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin23.png",
+      "sub": "Body & hand",
+      "title": "프로텍티브 페이셜 로션 에스피에프 30",
+      "content": "UVA와 UVB 자외선으로 인한 피부 손상으로부터 피부를 보호하기 위해 자외선 차단 효과를 제공하며 빠르게 흡수되는 가벼운 SPF 30 하이드레이터 *(자외선 차단 기능성, SPF30, PA+++)",
+      "type": "대부분의 피부 타입",
+      "feeling": "수분 공급, 보호, 매트한 마무리감",
+      "ingredient": "그린티, 판테놀(비타민 B₅), 토코페롤(비타민 E)",
+      "count": 1,
+      "price": 69000
+      },
+
+      {
+      "id": 7,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin24.png",
+      "sub": "Body & hand",
+      "title": "라이트웨이트 페이셜 하이드레이팅 세럼",
+      "content": "알로에 베라와 프로비타민 B5가 피부의 진정을 도와주면서 가볍고 빠르게 흡수되는 세럼",
+      "type": "지성, 복합성, 민감성, 문제성 피부, 덥고 습한 날씨의 피부",
+      "feeling": "부드러운, 촉촉하고 가벼운 마무리감",
+      "ingredient": "알로에 베라, 일랑일랑, 판테놀(비타민 B₅)",
+      "count": 1,
+      "price": 80000
+      }
+]
