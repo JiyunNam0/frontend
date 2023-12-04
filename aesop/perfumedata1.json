@@ -42,19 +42,6 @@
       "id": 3,
       "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/perfumeimg/prefume4.png",
       "sub": "Perfume",
-      "title": "로즈 헤어 앤 스칼프 모이스처라이징 마스크",
-      "content": "헤어에 윤기와 생기를 주고, 건조함으로 인해 발생한 각질을 진정시켜주는 집중 컨디셔닝 트리트먼트",
-      "type": "중성, 건성 모발, 연약한, 염색한, 펌을 한 모발",
-      "feeling": "플로럴, 따뜻한, 우디",
-      "ingredient": "로즈, 베타카로틴, 라벤더",
-      "count": 1,
-      "price": 41000
-      },
-
-      {
-      "id": 4,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/perfumeimg/prefume5.png",
-      "sub": "Perfume",
       "title": "휠 오 드 퍼퓸",
       "content": "남다른 느낌을 자아내는 매혹적인 향수. 히노키 숲을 연상시키며 스모키 노트를 시작으로 은은한 스파이스와 짙은 그린, 흙내음이 조화롭게 어우러집니다.",
       "type": "모든 성별, 자유 사상가, 엉뚱한 사람, 방랑자",
@@ -63,10 +50,10 @@
       "count": 1,
       "price": 155000
       },
-   
+
       {
-      "id": 5,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/perfumeimg/prefume6.png",
+      "id": 4,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/perfumeimg/prefume5.png",
       "sub": "Perfume",
       "title": "미라케시 인텐스 오 드 퍼퓸",
       "content": "우디한 스파이시 노트와 산뜻한 플로럴 노트의 원초적이고 통념을 깨는 향수로 같은 이름의 도시인 모로코 마라케시 도시에 대한 깊고 풍부하며 매혹적인 오마주.",
@@ -76,10 +63,10 @@
       "count": 1,
       "price": 155000
       },
-
+   
       {
-      "id": 6,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/perfumeimg/prefume7.png",
+      "id": 5,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/perfumeimg/prefume6.png",
       "sub": "Perfume",
       "title": "테싯 오 드 퍼퓸",
       "content": "마음을 차분하게 가라앉혀주고 우리 몸의 감각을 일깨워주는 흙내음과 시트러스 노트의 따뜻하고 생기 넘치는 블렌드.",
@@ -91,14 +78,27 @@
       },
 
       {
-      "id": 7,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/perfumeimg/prefume8.png",
+      "id": 6,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/perfumeimg/prefume7.png",
       "sub": "Perfume",
       "title": "에레미아 오 드 퍼퓸",
       "content": "밝은 시트러스 노트로 시작해 밀랍의 플로럴, 파우더리 머스크, 비 내린 뒤 콘크리트 내음으로 이어지는 활기차고 상쾌한 향수입니다.",
       "type": "모든 성별, 철학자, 사회의 관찰자, 낭만주의자",
       "feeling": "그린, 플로럴, 시트러스",
       "ingredient": "갈바눔, 아이리스, 유자",
+      "count": 1,
+      "price": 210000
+      },
+
+      {
+      "id": 7,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/perfumeimg/prefume8.png",
+      "sub": "Perfume",
+      "title": "카르스트 오 드 퍼퓸",
+      "content": "무디하면서 상쾌한 향수로, 미네랄의 탑 노트와 폭풍우의 메탈릭한 베이스 노트가 어우러져 절벽에서 자란 식물과 해안을 연상시킵니다.",
+      "type": "모든 성별, 실용주의자, 탐사자, 실존주의자",
+      "feeling": "상쾌한, 허브, 마린",
+      "ingredient": "주니퍼, 쿠민, 샌달우드",
       "count": 1,
       "price": 210000
       }
