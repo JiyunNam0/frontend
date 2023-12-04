@@ -1,0 +1,105 @@
+[
+   {
+      "id": 0,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/hairimg/hair1.png",
+      "sub": "Perfume",
+      "title": "우라논 오 드 퍼퓸",
+      "content": "스파클링한 시트러스 노트를 시작으로 아로마틱한 허브향의 하트 노트로 이어지며 따뜻한 유향과 미네랄 가득한 흙내음으로 부드러워집니다.",
+      "type": "모든 성별, 현자, 전문가, 지형학자",
+      "feeling": "우디, 스파이시, 유향",
+      "ingredient": "프랑킨센스, 헤이, 미르",
+      "count": 1,
+      "price": 210000
+      },
+
+      {
+      "id": 1,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/hairimg/hair2.png",
+      "sub": "Perfume",
+      "title": "글롬 오 드 퍼퓸",
+      "content": "스파이스의 매력적인 오프닝 노트로 시작해 달콤한 오렌지 플라워, 따뜻한 자스민, 아이리스와 파촐리가 전하는 파우더리한 블렌드가 어우러진 스파이시한 플로럴 노트가 펼쳐집니다.",
+      "type": "모든 성별, 관찰자, 자기성찰적인 사람, 이론가",
+      "feeling": "플로럴, 스파이시, 그린",
+      "ingredient": "미모사, 사프란, 아이리스",
+      "count": 1,
+      "price": 210000
+      },
+
+      {
+      "id": 2,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/hairimg/hair3.png",
+      "sub": "Perfume",
+      "title": "이더시스 오 드 퍼퓸",
+      "content": "밝은 오프닝 노트로 시작해 깊은 스파이스, 풍부한 흙내음, 건조한 우디 노트로 이어지는 묘한 매력의 향수",
+      "type": "모든 성별, 몽상가, 연못을 바라보는 사람, 선지자",
+      "feeling": "우디, 스파이시, 앰버리",
+      "ingredient": "블랙 페퍼, 프랑킨센스, 샌달우드",
+      "count": 1,
+      "price": 210000
+      },
+
+      {
+      "id": 3,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/hairimg/hair4.png",
+      "sub": "Perfume",
+      "title": "로즈 헤어 앤 스칼프 모이스처라이징 마스크",
+      "content": "헤어에 윤기와 생기를 주고, 건조함으로 인해 발생한 각질을 진정시켜주는 집중 컨디셔닝 트리트먼트",
+      "type": "중성, 건성 모발, 연약한, 염색한, 펌을 한 모발",
+      "feeling": "플로럴, 따뜻한, 우디",
+      "ingredient": "로즈, 베타카로틴, 라벤더",
+      "count": 1,
+      "price": 41000
+      },
+
+      {
+      "id": 4,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/hairimg/hair5.png",
+      "sub": "Perfume",
+      "title": "휠 오 드 퍼퓸",
+      "content": "남다른 느낌을 자아내는 매혹적인 향수. 히노키 숲을 연상시키며 스모키 노트를 시작으로 은은한 스파이스와 짙은 그린, 흙내음이 조화롭게 어우러집니다.",
+      "type": "모든 성별, 자유 사상가, 엉뚱한 사람, 방랑자",
+      "feeling": "스모키, 우드, 깊은",
+      "ingredient": "사이프러스, 프랑킨센스, 베티버",
+      "count": 1,
+      "price": 155000
+      },
+   
+      {
+      "id": 5,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/hairimg/hair6.png",
+      "sub": "Perfume",
+      "title": "미라케시 인텐스 오 드 퍼퓸",
+      "content": "우디한 스파이시 노트와 산뜻한 플로럴 노트의 원초적이고 통념을 깨는 향수로 같은 이름의 도시인 모로코 마라케시 도시에 대한 깊고 풍부하며 매혹적인 오마주.",
+      "type": "모든 성별, 탐험가, 쾌락주의자, 인습 타파 주의자",
+      "feeling": "우디, 스파이시, 플로럴",
+      "ingredient": "정향, 백단향, 카다멈",
+      "count": 1,
+      "price": 155000
+      },
+
+      {
+      "id": 6,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/hairimg/hair7.png",
+      "sub": "Perfume",
+      "title": "테싯 오 드 퍼퓸",
+      "content": "마음을 차분하게 가라앉혀주고 우리 몸의 감각을 일깨워주는 흙내음과 시트러스 노트의 따뜻하고 생기 넘치는 블렌드.",
+      "type": "모든 성별, 복고주의자, 탐미주의자, 일광욕을 즐기는 사람들",
+      "feeling": "상쾌한, 그린, 시트러스",
+      "ingredient": "유자, 베티버, 바질",
+      "count": 1,
+      "price": 150000
+      },
+
+      {
+      "id": 7,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/hairimg/hair8.png",
+      "sub": "Perfume",
+      "title": "에레미아 오 드 퍼퓸",
+      "content": "밝은 시트러스 노트로 시작해 밀랍의 플로럴, 파우더리 머스크, 비 내린 뒤 콘크리트 내음으로 이어지는 활기차고 상쾌한 향수입니다.",
+      "type": "모든 성별, 철학자, 사회의 관찰자, 낭만주의자",
+      "feeling": "그린, 플로럴, 시트러스",
+      "ingredient": "갈바눔, 아이리스, 유자",
+      "count": 1,
+      "price": 210000
+      }
+]
