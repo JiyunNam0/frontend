@@ -1,29 +1,53 @@
 [
    {
       "id": 0,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/body2.png",
+      "sub": "Body & hand",
       "title": "레저렉션 아로마틱 핸드 워시",
-      "content": "열심히 일한 손을 위한 부드러운 클렌징",
-      "price": "47,000"
+      "content": "오렌지, 로즈마리, 라벤더 오일을 함유한 부드러운 핸드 워시",
+      "type": "시트러스, 우드, 허브",
+      "feeling": "깔끔한, 상쾌한",
+      "ingredient": "만다린, 로즈마리 리프, 시더우드 아틀라스",
+      "count": 1,
+      "price": 49000
       },
 
       {
       "id": 1,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body3.png",
+      "sub": "Body & hand",
       "title": "레저렉션 아로마틱 핸드 밤",
-      "content": "시트러스, 우디, 허브향",
-      "price": "35,000"
+      "content": "지친 손과 큐티클에 풍부한 수분을 공급해주는 향긋한 보태니컬 핸드 밤",
+      "type": "시트러스, 우드, 허브",
+      "feeling": "부드러운, 유분기 없는",
+      "ingredient": "만다린, 로즈마리 리프, 시더우드 아틀라스",
+      "count": 1,
+      "price": 35000
       },
 
       {
       "id": 2,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/bodyimg/body4.png",
+      "sub": "Body & hand",
       "title": "너처 바 솝",
-      "content": "대부분의 피부 타입",
-      "price": "23,000"
+      "content": "시어 버터를 함유해 클렌징 과정에서 수분 손실을 막아주며 자극이 적어 건성 피부를 비롯해 대부분의 피부 타입에 적합한, 목욕할 때나 세면대에서 사용하는 비누",
+      "type": "우디, 허브, 플로럴",
+      "feeling": "깨끗한, 부드러운, 유연한",
+      "ingredient": "로즈마리 리프, 시더 아틀라스, 라벤더 스템",
+      "count": 1,
+      "price": 23000
       },
 
       {
       "id": 3,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/hairimg/hair7.png",
+      "sub": "Hair & Treatment",
       "title": "바이올렛 리프 헤어 밤",
-      "content": "스타일링을 도와주는 크리미한 컨디셔닝 밤",
-      "price": "40,000"
+      "content": "영양이 풍부한 하이드레이팅 너트 오일 추출물이 모발에 영양을 주는 동시에 다루기 힘든 모발의 스타일링 도와주는 밤",
+      "type": "거친 모발",
+      "feeling": "그린, 흙내음, 따뜻한",
+      "ingredient": "카멜리아 너트, 캐럿 오일, 라벤더",
+      "count": 1,
+      "price": 40000
       }
 ]
