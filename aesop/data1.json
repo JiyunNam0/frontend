@@ -1,29 +1,53 @@
 [
    {
       "id": 0,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin5.png",
+      "sub": "Hydrator",
       "title": "엘레멘탈 페이셜 배리어 크림",
-      "content": "춥고 혹독한 환경에 노출된 피부",
-      "price": "71,000"
+      "content": "뛰어난 보습력으로 피부의 방어막을 형성하여 피부를 보호하고 동시에 풍부한 영양을 공급하는 크림",
+      "type": "건성, 민감성 피부 혹은 춥고 건조한 날씨의 피부",
+      "feeling": "피부가 보호된, 진정된",
+      "ingredient": "카퍼 PCA, 비사보롤, 진저 루트",
+      "count": 1,
+      "price": 71000
       },
 
       {
       "id": 1,
-      "title": "파슬리 씨드 클렌징 마스크",
-      "content": "불순물을 부드럽게 제거해 피부를 상쾌하게 가꿔줍니다",
-      "price": "57,000"
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin13.png",
+      "sub": "Treatment & Mask",
+      "title": "블루 카모마일 페이셜 하이드레이팅 마스크",
+      "content": "피부의 밸런스를 유지하면서도 집중적으로 수분을 공급하는 가벼운 수분 마스크",
+      "type": "중성 피부, 건성 피부, 탈수 피부, 여행을 자주 하는 분",
+      "feeling": "시원한, 상쾌한, 촉촉한",
+      "ingredient": "나이아신마이드(비타민 B₃), 소듐 카라기닌, 비사보롤",
+      "count": 1,
+      "price": 67000
       },
 
       {
       "id": 2,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin3.png",
+      "sub": "Treatment & Mask",
       "title": "파슬리 씨드 안티 옥시던트 페이셜 트리트먼트",
-      "content": "영양을 공급해 피부를 탄탄하게 강화시킵니다",
-      "price": "70,000"
+      "content": "풍부한 보습효과로 피부의 활기를 되찾아주는 페이셜 오일",
+      "type": "대부분의 피부 타입, 도시 거주자",
+      "feeling": "부드러운",
+      "ingredient": "파슬리 씨드, 블랙커런트 씨드, 마트리카리아꽃오일(블루 카모마일)",
+      "count": 1,
+      "price": 70000
       },
 
       {
       "id": 3,
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin7.png",
+      "sub": "Exfoliation",
       "title": "퓨리파잉 페이셜 엑스폴리언트 페이스트",
-      "content": "각질을 제거해 피부에 수분공급을 해줍니다",
-      "price": "67,000"
+      "content": "각질을 관리해주면서 피부를 매끄럽게 클렌징 해주는 크림 베이스 클렌저",
+      "type": "중성, 건성, 민감성 피부, 여행이 잦거나, 추운 날씨의 피부",
+      "feeling": "산뜻한, 부드러운, 깔끔한",
+      "ingredient": "석영, 로즈마리 리프, 락틱애씨드",
+      "count": 1,
+      "price": 67000
       }
 ]
