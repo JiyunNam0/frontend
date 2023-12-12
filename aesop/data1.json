@@ -14,7 +14,7 @@
 
       {
       "id": 1,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin13.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/skin/skin13.png",
       "sub": "Treatment & Mask",
       "title": "블루 카모마일 페이셜 하이드레이팅 마스크",
       "content": "피부의 밸런스를 유지하면서도 집중적으로 수분을 공급하는 가벼운 수분 마스크",
@@ -27,7 +27,7 @@
 
       {
       "id": 2,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin3.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/skin/skin3.png",
       "sub": "Treatment & Mask",
       "title": "파슬리 씨드 안티 옥시던트 페이셜 트리트먼트",
       "content": "풍부한 보습효과로 피부의 활기를 되찾아주는 페이셜 오일",
@@ -40,7 +40,7 @@
 
       {
       "id": 3,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin7.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/skin/skin7.png",
       "sub": "Exfoliation",
       "title": "퓨리파잉 페이셜 엑스폴리언트 페이스트",
       "content": "각질을 관리해주면서 피부를 매끄럽게 클렌징 해주는 크림 베이스 클렌저",
