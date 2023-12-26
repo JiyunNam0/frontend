@@ -1,28 +1,28 @@
 [
    {
       "id": 0,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin5.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_signature.png",
       "title": "SIGNATURE",
       "content": "셀렉토 감성과 재미를 듬뿍 담아낸, 셀렉토에서 맛볼 수 있는 시그니처 음료"
       },
 
       {
       "id": 1,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin5.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_beverage.png",
       "title": "BEVERAGE",
       "content": "고객의 라이프 스타일에 맞춰 더욱 다양하게 즐길 수 잇는 셀렉토의 음료 라인업!"
       },
 
       {
       "id": 2,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin5.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_coffee.png",
       "title": "COFFEE",
       "content": "셀렉토 품질 좋은 원두를 선별해, 최적의 로스팅 포인트로 더욱 섬세하게 균형잡힌 풍미의 커피를 고객에세 선사합니다."
       },
 
       {
       "id": 3,
-      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/aesop/images/skin5.png",
+      "images": "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_cookie.png",
       "title": "COOKIE",
       "content": "남녀노소, 어디서나 맛있게! 셀렉토 시그니처 수제 쿠키"
       }
