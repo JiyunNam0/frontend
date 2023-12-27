@@ -5,13 +5,8 @@
          "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_signature.png",
          "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/signature-item-01.png",
          "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/signature-item-02-1.png",
-         "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/signature-item-03-1.png"
-      ],
-      "tablet": [
-        "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_signature_tablet.png",
-         "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_beverage_tablet.png",
-         "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_coffee_tablet.png",
-         "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_cookie_tablet.png"
+         "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/signature-item-03-1.png",
+         "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_signature_tablet.png"
       ],
       "title": "SIGNATURE",
       "content": "셀렉토 감성과 재미를 듬뿍 담아낸, 셀렉토에서 맛볼 수 있는 시그니처 음료",
@@ -35,14 +30,15 @@
          "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_beverage.png",
          "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/c-beverage-item-01.png",
          "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/c-beverage-item-02.png",
-         "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/c-beverage-item-03.png"
+         "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/c-beverage-item-03.png",
+         "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_beverage_tablet.png"
       ],
       "title": "BEVERAGE",
       "content": "고객의 라이프 스타일에 맞춰 더욱 다양하게 즐길 수 잇는 셀렉토의 음료 라인업!",
       "topping":[
       	"https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/c-topping-02.png",
       	"https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/c-topping-03.png",
-      	"https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/c-topping-04.png"
+      	"https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/c-topping-04.png",
              ],
       "toppingname" : [
       	"시럽_카라멜",
@@ -57,7 +53,8 @@
          "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_coffee.png",
          "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/c-coffee-item-01.png",
          "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/c-coffee-item-02.png",
-         "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/c-coffee-item-03.png"
+         "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/c-coffee-item-03.png",
+         "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_coffee_tablet.png"
       ],
       "title": "COFFEE",
       "content": "셀렉토 품질 좋은 원두를 선별해, 최적의 로스팅 포인트로 더욱 섬세하게 균형잡힌 풍미의 커피를 고객에세 선사합니다.",
@@ -77,7 +74,8 @@
          "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_cookie.png",
          "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/c-cookie-item-01.png",
          "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/c-cookie-item-02.png",
-         "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/c-cookie-item-03.png"
+         "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/c-cookie-item-03.png",
+         "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_cookie_tablet.png"
       ],
       "title": "COOKIE",
       "content": "남녀노소, 어디서나 맛있게! 셀렉토 시그니처 수제 쿠키",
