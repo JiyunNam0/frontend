@@ -7,6 +7,12 @@
          "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/signature-item-02-1.png",
          "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/signature-item-03-1.png"
       ],
+      "tablet": [
+        "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_signature_tablet.png",
+         "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_beverage_tablet.png",
+         "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_coffee_tablet.png",
+         "https://raw.githubusercontent.com/JiyunNam0/frontend/main/selecto/selectoimg/menuimg/menu_cookie_tablet.png"
+      ],
       "title": "SIGNATURE",
       "content": "셀렉토 감성과 재미를 듬뿍 담아낸, 셀렉토에서 맛볼 수 있는 시그니처 음료",
       "topping":[
